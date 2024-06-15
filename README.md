@@ -7,7 +7,11 @@ Front Face: Displays the card logo, chip, card number, cardholder's name, and va
 Back Face: Includes customer service contact information, a magnetic strip, a signature area, and a placeholder text for additional information.
 Responsive Design: Ensures the card looks great on different screen sizes.
 # Files
+
 card.html: Contains the HTML structure of the flipping card.
+
 card.css: Contains the CSS styles for the card design and flipping animation.
+
 logo.png: The logo image displayed on the front face of the card.
+
 chip.png: The chip image displayed on the front face of the card.
