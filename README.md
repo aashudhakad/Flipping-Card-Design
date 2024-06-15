@@ -8,9 +8,9 @@ Back Face: Includes customer service contact information, a magnetic strip, a si
 Responsive Design: Ensures the card looks great on different screen sizes.
 # Files
 
-card.html: Contains the HTML structure of the flipping card.
+index.html: Contains the HTML structure of the flipping card.
 
-card.css: Contains the CSS styles for the card design and flipping animation.
+style.css: Contains the CSS styles for the card design and flipping animation.
 
 logo.png: The logo image displayed on the front face of the card.
 
